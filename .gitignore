@@ -6,3 +6,8 @@ Project/Project.xcworkspace/xcuserdata/changsanjiang.xcuserdatad/UserInterfaceSt
 Project/Project.xcworkspace/xcuserdata/changsanjiang.xcuserdatad/UserInterfaceState.xcuserstate
 *.xcuserstate
 Project/Project.xcworkspace/xcuserdata/changsanjiang.xcuserdatad/UserInterfaceState.xcuserstate
+*.plist
+SJBaseVideoPlayer/AliPlayer/.DS_Store
+SJBaseVideoPlayer/IJKPlayer/.DS_Store
+SJBaseVideoPlayer/.DS_Store
+.DS_Store
